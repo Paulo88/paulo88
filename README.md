@@ -19,13 +19,13 @@ Gosto de transformar ideias em interfaces bem construídas, unindo código + des
 📚 Atualmente aprofundando em JavaScript, CSS3, HTML5, arquitetura front-end e performance web<br>
 🎯 Objetivo: Foco em crescer como dev fullstack, construir produtos próprios (SaaS) e escalar projetos digitais<br>
 🎨 Forte atenção em UI/UX, estética e experiência do usuário<br>
-⚡ Curto unir tecnologia + design para criar experiências que realmente convertem
-📈 Sempre buscando melhorar performance, SEO e resultados reais dos projetos
+⚡ Curto unir tecnologia + design para criar experiências que realmente convertem<br>
+📈 Sempre buscando melhorar performance, SEO e resultados reais dos projetos<br>
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo com</h2>
 
 ###
 
