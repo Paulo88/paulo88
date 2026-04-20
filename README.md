@@ -14,13 +14,13 @@ Gosto de transformar ideias em interfaces bem construídas, unindo código + des
 ###
 
 <p align="left">
-💻 Atuo com desenvolvimento web e design gráfico<br>
-🚀 Trabalho criando sites profissionais para negócios e projetos reais<br>
-📚 Atualmente aprofundando em JavaScript, CSS3, HTML5, arquitetura front-end e performance web<br>
-🎯 Objetivo: Foco em crescer como dev fullstack, construir produtos próprios (SaaS) e escalar projetos digitais<br>
-🎨 Forte atenção em UI/UX, estética e experiência do usuário<br>
-⚡ Curto unir tecnologia + design para criar experiências que realmente convertem<br>
-📈 Sempre buscando melhorar performance, SEO e resultados reais dos projetos<br>
+- 💻 Atuo com desenvolvimento web e design gráfico<br>
+- 🚀 Trabalho criando sites profissionais para negócios e projetos reais<br>
+- 📚 Atualmente aprofundando em JavaScript, CSS3, HTML5, arquitetura front-end e performance web<br>
+- 🎯 Objetivo: Foco em crescer como dev fullstack, construir produtos próprios (SaaS) e escalar projetos digitais<br>
+- 🎨 Forte atenção em UI/UX, estética e experiência do usuário<br>
+- ⚡ Curto unir tecnologia + design para criar experiências que realmente convertem<br>
+- 📈 Sempre buscando melhorar performance, SEO e resultados reais dos projetos<br>
 </p>
 
 ###
