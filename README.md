@@ -1,20 +1,33 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Fala, eu sou o Paulo 👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">
+Desenvolvedor Web e Designer focado em criar sites modernos, rápidos e com propósito.<br>
+Gosto de transformar ideias em interfaces bem construídas, unindo código + design para gerar resultados reais.
+</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+💻 Atuo com desenvolvimento web e design gráfico<br>
+🚀 Trabalho criando sites profissionais para negócios e projetos reais<br>
+📚 Atualmente aprofundando em JavaScript, CSS3, HTML5, arquitetura front-end e performance web<br>
+🎯 Objetivo: Foco em crescer como dev fullstack, construir produtos próprios (SaaS) e escalar projetos digitais<br>
+🎨 Forte atenção em UI/UX, estética e experiência do usuário<br>
+⚡ Curto unir tecnologia + design para criar experiências que realmente convertem
+📈 Sempre buscando melhorar performance, SEO e resultados reais dos projetos
+</p>
 
 ###
 
 <h2 align="left">I code with</h2>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
